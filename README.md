@@ -10,9 +10,9 @@
 Active Semi-Supervised Learning techniques were applied for human-wound images to perform segmentation,
 then the same models were trained, via Transfer Learning, adopting an Active Semi-Supervised Learning to unlabelled animal-wound images. 
     <br>
-    <a href="https://github.com/Torbidos7/Automated-wound-image-segmentation/issues/new?template=bug.md">Report bug</a>
+    <a href="https://github.com/Torbidos7/PetWound/issues/new?template=bug.md">Report bug</a>
     ·
-    <a href="https://github.com/Torbidos7/Automated-wound-image-segmentation/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://github.com/Torbidos7/PetWound/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 </p>
 
@@ -39,13 +39,11 @@ The frameworks used in this project are
 
 All the available files are structured as follows:
 
-- *PetWound* contains the dataset with 290 animal wound images;
 - *read_models.ipynb* is a notebook for fast model loading;
 - *models* contains the 4 model produced in the study
 
 ```text
 Automated-wound-image-segmentation/
-├──PetWound/
 ├──read_models.ipynb
 └──models/
     ├──efficientnet_deepskin_human.h5
@@ -57,15 +55,15 @@ Automated-wound-image-segmentation/
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/Torbidos7/Automated-wound-image-segmentation/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/Torbidos7/Automated-wound-image-segmentation/issues/new).
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/Torbidos7/PetWound/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/Torbidos7/PetWound/issues/new).
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://github.com/Torbidos7/Automated-wound-image-segmentation/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+Please read through our [contributing guidelines](https://github.com/Torbidos7/PetWound/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
 Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/Torbidos7).
 
-Editor preferences are available in the [editor config](https://github.com/Torbidos7/Automated-wound-image-segmentation/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+Editor preferences are available in the [editor config](https://github.com/Torbidos7/PetWound/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
 ## Creators
 
@@ -79,6 +77,6 @@ Thank you for coming :stuck_out_tongue_closed_eyes:
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://github.com/Torbidos7/Automated-wound-image-segmentation//blob/master/LICENSE).
+Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://github.com/Torbidos7/PetWound//blob/master/LICENSE).
 
 
